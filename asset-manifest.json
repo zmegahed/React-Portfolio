@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/zmegahed/React-Portfolio.git/static/css/main.280d57f6.css",
+    "main.js": "/zmegahed/React-Portfolio.git/static/js/main.7e703e48.js",
+    "index.html": "/zmegahed/React-Portfolio.git/index.html",
+    "main.280d57f6.css.map": "/zmegahed/React-Portfolio.git/static/css/main.280d57f6.css.map",
+    "main.7e703e48.js.map": "/zmegahed/React-Portfolio.git/static/js/main.7e703e48.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.280d57f6.css",
+    "static/js/main.7e703e48.js"
+  ]
+}
